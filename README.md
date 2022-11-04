@@ -27,9 +27,9 @@ Los valores para **forma** son:  'asc' o 'desc'
 >>> esVectorOrdenado([23, 656, 5533, 8120], 'asc')
 True
 >>> esVectorOrdenado([15, 4, 0], 'desc')
-True
->>> esVectorOrdenado([11, 45], 'desc')
 False
+>>> esVectorOrdenado([11, 45], 'desc')
+True
 ```
 
 
