@@ -18,6 +18,9 @@
 
 Escriba un programa con sintaxis Python cuya función principal se llame **esVectorOrdenado(vector, forma)**, que reciba como entradas un **vector** y una **forma**, este último será un string que especificará si el vector está ordenado en forma **ascendente o descendente**. Esta función retornará **True** si el vector corresponde al tipo o **False** del caso contrario
 
+- Si es **asc** el recorrido del vector será de izquierda a derecha
+- Si es **desc** el recorrido del vector será de derecha a izquierda
+
 Los valores para **forma** son:  'asc' o 'desc'
 
 ```python
